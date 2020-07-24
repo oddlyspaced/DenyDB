@@ -1,9 +1,6 @@
 {
   "category": "Social",
-  "permissions": [
-    4,
-    7,
-    10
-  ],
-  "origin": "United States"
+  "permissions": [4,7,10],
+  "origin": "United States",
+  "status": 0
 }
